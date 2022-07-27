@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "blokpool-a350d",
+    "main": "blokpools-dev"
+  },
+  "targets": {}
+}
