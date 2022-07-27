@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="518.4px"
+    height="518.4px"
+    viewBox="0 0 518.4 518.4">
+<defs>
+  <radialGradient id="gradient0" gradientUnits="objectBoundingBox" cx="0.5" cy="0.484285699843054" fx="0.5" fy="0.484285699843054" r="0.685714265264502" spreadMethod="pad">
+   <stop stop-color="#edde4f" offset="0.13259668648243" stop-opacity="1"/>
+   <stop stop-color="#edb550" offset="0.574585616588593" stop-opacity="1"/>
+  </radialGradient>
+  <radialGradient id="gradient1" gradientUnits="objectBoundingBox" cx="0.5" cy="1.00588227088625" fx="0.5" fy="1.00588227088625" r="1.00588218931117" spreadMethod="pad">
+   <stop stop-color="#064663" offset="0.259668499231339" stop-opacity="1"/>
+   <stop stop-color="#dea94b" offset="0.624309420585632" stop-opacity="1"/>
+   <stop stop-color="#064663" offset="0.90055251121521" stop-opacity="1"/>
+  </radialGradient>
+ </defs>
+<circle id="shape0" transform="matrix(0.999999952904974 0 0 0.999999952904974 199.199990618671 163.199992314092)" r="60" cx="60" cy="60" fill="url(#gradient0)" fill-rule="evenodd" stroke="#ffffff" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="bevel"/><path id="shape01" transform="matrix(0.999999952904974 0 0 0.999999952904974 14.3999993218316 14.3999939484349)" fill="url(#gradient1)" fill-rule="evenodd" stroke="#ffffff" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="round" krita:marker-fill-method="auto" d="M360 115.2L244.8 4.57718e-06L129.6 115.2L57.6 5.3734e-06L0 8.88178e-16L201.6 489.6L244.8 489.6L288 489.6L489.6 8.88178e-16L432 5.3734e-06ZM360 172.8L244.8 447.12L129.6 172.8L244.8 58.08Z"/><path id="shape1" transform="matrix(0.999999952904974 0 0 0.999999952904974 158.399992540148 187.199991183811)" fill="none" stroke="#04293a" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0"/>
+</svg>
