@@ -4,12 +4,12 @@
 - Linkedin: https://es.linkedin.com/in/kevin-miguel-rivero-mart%C3%ADn-9a1727a9
 
 ## Proyectos
-#### Proyecto en el que estoy trabajando actualmente en mis ratos libres para seguir profundizando y mejorando en Flutter
+#### Aplicación web y móvil de notas y recordatorios. Cuenta con implementación propia de un editor para soportar aplicar estilos al texto mediante comandos. Actualmente estoy desarrollándolo en mis ratos libres para seguir profundizando y mejorando en Flutter.
 - Nombre: My Mind
 - Capturas de pantalla del estado actual, ya que aún no está desplegado: https://github.com/KevinRM/projects/tree/master/MyMind/screenshots
 - Repositorio: https://github.com/KevinRM/projects/tree/master/MyMind
 
-#### Proyecto de videojuego que tendrá interacciones con blockchain, crear un token como moneda premium del juego e implementar NFTs. Igualmente voy compaginando con el anterior en los ratos libres. La web está alojada en un servidor cloud en Clouding.io, utilizando como backend NodeJS y Express, así como el paquete Agenda para programar tareas recurrentes. Como base de datos utilizo MongoDB Atlas.
+#### Proyecto de videojuego que tendrá interacciones con blockchain, crear un token como moneda premium del juego e implementar NFTs. Voy compaginándolo con el anterior en los ratos libres. La web está alojada en un servidor cloud en Clouding.io, utilizando como backend NodeJS y Express, así como el paquete Agenda para programar tareas recurrentes. Como base de datos utilizo MongoDB Atlas.
 - Nombre: Evogalaxy
 - URL: https://evogalaxy.com/
 - Repositorio: https://github.com/KevinRM/projects/tree/master/EvoGalaxy
@@ -20,7 +20,7 @@
 - URL original del proyecto de Bloktopia a una de sus pools de staking: https://blokpool14u79a40.z35.web.core.windows.net/
 - Repositorio: https://github.com/KevinRM/projects/tree/master/Blokpools
 
-#### Proyecto que estoy desarrollando en mi actual trabajo. Únicamente puedo dar acceso a la plataforma con usuario de prueba, no puedo dar acceso al código fuente.
+#### Proyecto que estoy desarrollando en mi actual trabajo. Únicamente puedo dar acceso a la plataforma con usuario de prueba, no puedo dar acceso al código fuente. Se trata de una plataforma para registro, presentación y análisis de datos. Se está implementando comunicación con una API y base de datos, además de comunicación en tiempo real recibiendo información de sensores repartidos por diferentes zonas del territorio.
 - https://kexplorer.herokuapp.com/
 - Acceso al elemento del menú: "CAP. Subterráneas"
 - Usuario (todo en minúsculas): kevin
