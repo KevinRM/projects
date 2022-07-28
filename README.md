@@ -3,6 +3,7 @@
 - Correo electrónico: kevinmrm94@outlook.com
 - Linkedin: https://es.linkedin.com/in/kevin-miguel-rivero-mart%C3%ADn-9a1727a9
 
+## Proyectos
 #### Proyecto en el que estoy trabajando actualmente en mis ratos libres para seguir profundizando y mejorando en Flutter
 - Nombre: My Mind
 - Capturas de pantalla del estado actual, ya que aún no está desplegado: https://github.com/KevinRM/projects/tree/master/MyMind/screenshots
