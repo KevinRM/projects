@@ -2,7 +2,7 @@
 ## Personal data
 - Name: Kevin Miguel Rivero Martín
 - E-mail: kevinmrm94@outlook.com
-- Linkedin: https://es.linkedin.com/in/kevin-miguel-rivero-mart%C3%ADn-9a1727a9
+- Linkedin: https://www.linkedin.com/in/kevin-miguel-rivero-martin-9a1727a9/
 
 ## Projects
 #### Web and mobile application for notes and reminders. It has its own implementation of an editor to support applying styles to the text through commands. I am currently developing it in my spare time to continue improving Flutter skills.
@@ -33,7 +33,7 @@
 ## Datos personales
 - Nombre: Kevin Miguel Rivero Martín
 - Correo electrónico: kevinmrm94@outlook.com
-- Linkedin: https://es.linkedin.com/in/kevin-miguel-rivero-mart%C3%ADn-9a1727a9
+- Linkedin: https://www.linkedin.com/in/kevin-miguel-rivero-martin-9a1727a9/
 
 ## Proyectos
 #### Aplicación web y móvil de notas y recordatorios. Cuenta con implementación propia de un editor para soportar aplicar estilos al texto mediante comandos. Actualmente estoy desarrollándolo en mis ratos libres para seguir profundizando y mejorando en Flutter.
