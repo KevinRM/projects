@@ -1,3 +1,35 @@
+# English
+## Personal data
+- Name: Kevin Miguel Rivero Martín
+- E-mail: kevinmrm94@outlook.com
+- Linkedin: https://es.linkedin.com/in/kevin-miguel-rivero-mart%C3%ADn-9a1727a9
+
+## Projects
+#### Web and mobile application for notes and reminders. It has its own implementation of an editor to support applying styles to the text through commands. I am currently developing it in my spare time to continue improving Flutter skills.
+- Name: My Mind
+- Screenshots of the current status, as it is not yet deployed: https://github.com/KevinRM/projects/tree/master/MyMind/screenshots
+- Repository: https://github.com/KevinRM/projects/tree/master/MyMind
+
+#### Video game project that will have interactions with blockchain, create a token as a premium currency of the game and implement NFTs. I'm combining it with the previous one in my free time. The website with Flutter is hosted on a cloud server at Clouding.io, using NodeJS and Express as backend, as well as the Agenda package to schedule recurring tasks. As database I use MongoDB Atlas.
+- Name: Evogalaxy
+- URL: https://evogalaxy.com/
+- Repository: https://github.com/KevinRM/projects/tree/master/EvoGalaxy
+
+#### Didactic web copy of an existing metaverse project (Bloktopia) to learn how to connect flutter with cryptocurrency wallets and handle blockchain transactions. The project points to Polygon's test network, so no real-value transactions are executed. The website with Flutter is hosted on Firebase, the NodeJS server with Express on Heroku and the database on MongoDB Atlas.
+- Name: Blokpools
+- URL: https://blokpools-dev.web.app/
+- Bloktopia's original project URL to one of its staking pools: https://blokpool14u79a40.z35.web.core.windows.net/
+- Repository: https://github.com/KevinRM/projects/tree/master/Blokpools
+
+#### Project I am developing in my current job. I can only give access to the platform with a test user, I cannot give access to the source code. It is a platform for registration, presentation and analysis of data. It is implementing communication with an API and database, as well as real-time communication receiving information from sensors distributed in different areas of the territory.
+- https://kexplorer.herokuapp.com/
+- Access to the menu item: "CAP. Subterráneas"
+- User (all in lowercase): kevin
+- Password: 123456789
+
+***
+
+# Español
 ## Datos personales
 - Nombre: Kevin Miguel Rivero Martín
 - Correo electrónico: kevinmrm94@outlook.com
